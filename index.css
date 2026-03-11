@@ -167,4 +167,17 @@ main{
 nav:hover{
   background-color: #FFFDF5;
 }
+.new{
+  background-color:#D4D0C4 ;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.new img{
+  height: 700px;
+  width: 700px;
+}
 
